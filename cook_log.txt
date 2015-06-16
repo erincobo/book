@@ -1,4 +1,4 @@
-****starting to cook***** at 2015-06-16 18:34:11.404788 (Ireland time)
+****starting to cook***** at 2015-06-16 18:43:58.797772 (Ireland time)
 
 cook_dir: /home/ubuntu/books/erincobo/book
 deleting previously generated contents of directory: /home/ubuntu/books/erincobo/book/debug
