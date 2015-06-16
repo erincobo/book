@@ -1,15 +1,13 @@
-****starting to cook***** at 2015-06-16 18:27:47.814982 (Ireland time)
+****starting to cook***** at 2015-06-16 18:34:11.404788 (Ireland time)
 
 cook_dir: /home/ubuntu/books/erincobo/book
-NO RECIPE FOUND AT: /home/ubuntu/books/erincobo/book/booky_raw/booky_recipe.txt
-Creating new recipe for: booky
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/book/debug
+Opening recipe for: /home/ubuntu/books/erincobo/book/booky_raw/booky_recipe.txt
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/book/booky_cooked
 Opening Point Of Sale data for: booky_raw/booky_pos_data.txt
-No Point of Sale data this time.
 front_matter count: 4
-creating new empty chapter:010
-creating new empty chapter:020
-creating new empty chapter:030
 chapter count: 3
 ePubChef is finished, see /booky_served.
 zipping up to .epub at: /home/ubuntu/books/erincobo/book/booky_served/booky.epub
+deleting previously generated contents of directory: /home/ubuntu/books/erincobo/book/booky_served
 All done
