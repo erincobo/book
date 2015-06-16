@@ -28,8 +28,8 @@ front_matter: # must include "cover", "title_page", and "table_of_contents" (in 
      
 chapters:
      -  code: '010'
-        name: The First Chapter
-        intro: This will be a great chapter.
+        name: In the Beginning
+        intro: Bang bang went the gun.
         #starts_part: Part One
      -  code: '020'
         name: The Second Chapter
