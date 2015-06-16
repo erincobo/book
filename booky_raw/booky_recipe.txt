@@ -1,6 +1,6 @@
 
-title: booky
-author: Ann Author
+title: booky 1
+author: Erin Cobo
 file_as: Author, Ann
 identifier: jcobobooks.com.epub-samples.demo
 coverdesign: A. Designer
